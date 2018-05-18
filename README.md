@@ -1,3 +1,14 @@
 Legend:
 - ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) 'Arabian sign language family'
-`
+- ![#0000FF](https://placehold.it/15/0000FF/000000?text=+) 'BANZSL (British, Australian and New Zealand Sign Language) family'
+- ![#FF69B4](https://placehold.it/15/FF69B4/000000?text=+) 'Francosign (including Amslanic, marked with white circle) language family'
+- ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) 'Indo-Pakistani sign language family'
+- ![#00FFFF](https://placehold.it/15/00FFFF/000000?text=+) 'Zhongguo Shouyu sign language family'
+- ![#000000](https://placehold.it/15/000000/000000?text=+) 'Germanosign language family'
+- ![#00FF00](https://placehold.it/15/00FF00/000000?text=+) 'Japanese sign language family'
+- ![#006400](https://placehold.it/15/006400/000000?text=+) 'Original Thai sign language family'
+- ![#ffa500](https://placehold.it/15/ffa500/000000?text=+) 'Paraguayan-Uruguayan sign language family'
+- ![#ffffff](https://placehold.it/15/ffffff/000000?text=+) 'Plain Sign Talk* and its relatives/variations'
+- ![#7E7E7E](https://placehold.it/15/7E7E7E/000000?text=+) 'Providencia-Cayman sign languages family'
+- ![#4B0082](https://placehold.it/15/4B0082/000000?text=+) 'Australian indigenious sign language families'
+- ![#333300](https://placehold.it/15/333300/000000?text=+) 'Mayan sign language family'
